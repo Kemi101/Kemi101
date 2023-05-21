@@ -1,9 +1,7 @@
 ### Hi there 👋
 
 <!--
-`README.md` (this file) appears on your GitHub profile.
-
-Hi, I'm a data student, currently on a data analysis course.
+README.md Hi, I'm a data student, currently on a data analysis course.
 
 Here are some ideas to get you started:
 
