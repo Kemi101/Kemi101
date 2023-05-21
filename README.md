@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**Kemi101/Kemi101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+`README.md` (this file) appears on your GitHub profile.
 
 Hi, I'm a data student, currently on a data analysis course.
 
